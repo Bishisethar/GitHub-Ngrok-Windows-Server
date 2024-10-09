@@ -1,7 +1,7 @@
 # Free Windows Server 2022 with RDP for Lifetime
-This repository provides a step-by-step guide on how to set up a free Windows Server 2022 with Remote Desktop Protocol (RDP) access for lifetime use, leveraging GitHub Actions and an Ngrok tunnel.
+This repository provides a step-by-step guide on how to set up a free Windows Server 2024 with Remote Desktop Protocol (RDP) access for lifetime use, leveraging GitHub Actions and an Ngrok tunnel.
 
-By following the instructions below, you can create a free VPS running Windows Server 2022, which can be accessed via Remote Desktop Connection using Ngrok.
+By following the instructions below, you can create a free VPS running Windows Server 2024, which can be accessed via Remote Desktop Connection using Ngrok.
 
 ## Steps to Create Windows Server 2022 with RDP
 ### 1. Sign Up for a GitHub Account
@@ -9,7 +9,7 @@ By following the instructions below, you can create a free VPS running Windows S
 If you don’t have a GitHub account yet, sign up here: GitHub.
 
 ### 2. Create a Private Repository
-1.Log in to your GitHub account and create a new private repository.
+1.Log in to your GitHub account. https://github.com/ and create a new private repository.
 
 2.Go to Settings > Secrets and Variables > Actions > New Repository Secret.
 
